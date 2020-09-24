@@ -1,4 +1,4 @@
-# React Native Crypto Wallet
+# BGL Wallet
 
 Simple mobile Bitcoin & Ethereum wallet
 
